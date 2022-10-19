@@ -1,0 +1,56 @@
+body {
+    background-color: #CFE8A9;
+    color: #E64848;
+    transition: 0.7s;   
+    margin: 65px;
+    display: grid;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.form_login {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 20px;
+    width: 250px;
+    background-color: #E64848;
+    color: rgb(247, 225, 180);
+}
+
+.form_regis {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 5px;
+    width: 250px;
+    background-color: #E64848;
+    color: #CFE8A9;
+}
+
+.belum-pa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    background-color: rgb(41, 35, 23);
+    color: rgb(247, 225, 180);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nama-user {
+    display: flex;
+    align-items: flex-start;
+    padding: 60px;
+}
